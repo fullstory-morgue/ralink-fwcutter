@@ -2,5 +2,6 @@ ralink-fwcutter (1.2.0) unstable; urgency=low
 
   * Initial Release.
   * merge in fwcutter parts from rt61 and rt73-legacy.
+  * rt*-fwcutter.dirs is obsolete now.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 04 Sep 2007 12:19:42 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 04 Sep 2007 12:45:02 +0200
