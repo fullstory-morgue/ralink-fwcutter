@@ -1,0 +1,49 @@
+# ralink-fwcutter.
+# Copyright (C) 2007 Stefan Lippers-Hollmann
+# This file is distributed under the same license as the ralink-fwcutter package.
+# Stefan Lippers-Hollmann s.l-h@gmx.de, 2007.
+#
+# strings taken from Rene Engelhard's <rene@debian.org> 
+# bcm43xx-fwcutter package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ralink-fwcutter 20070904\n"
+"Report-Msgid-Bugs-To: s.l-h@gmx.de\n"
+"POT-Creation-Date: 2007-09-04 11:45+0200\n"
+"PO-Revision-Date: 2007-09-04 11:55+0200\n"
+"Last-Translator: Stefan Lippers-Hollmann <s.l-h@gmx.de>\n"
+"Language-Team: Stefan Lippers-Hollmann <s.l-h@gmx.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Type: boolean
+#. Description
+#: ../rt61-fwcutter.templates:1001 ../rt73-fwcutter.templates:1001
+msgid "Fetch and extract firmware?"
+msgstr "Firmware holen und extrahieren?"
+
+#. Type: boolean
+#. Description
+#: ../rt61-fwcutter.templates:1001
+msgid ""
+"The rt61 driver needs extracted firmware - which cannot be shipped - to be "
+"working. This firmware can be automatically fetched and extracted as part of "
+"installing this package."
+msgstr ""
+"Der rt61-Treiber benötigt extrahierte Firmware - welche nicht mitgeliefert "
+"werden kann - um zu funktionieren. Diese Firmware kann während der "
+"Paketinstallation automatisch geholt und extrahiert werden."
+
+#. Type: boolean
+#. Description
+#: ../rt73-fwcutter.templates:1001
+msgid ""
+"The rt73 driver needs extracted firmware - which cannot be shipped - to be "
+"working. This firmware can be automatically fetched and extracted as part of "
+"installing this package."
+msgstr ""
+"Der rt73 Treiber benötigt extrahierte Firmware - welche nicht "
+"mitgeliefert werden kann - um zu funktionieren. Diese Firmware kann während "
+"der Paketinstallation automatisch geholt und extrahiert werden."

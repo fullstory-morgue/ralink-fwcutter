@@ -1,6 +1,6 @@
-ralink-fwcutter (1.2.0) UNRELEASE; urgency=low
+ralink-fwcutter (1.2.0) unstable; urgency=low
 
-  * NOT RELASED YET
   * Initial Release.
+  * merge in fwcutter parts from rt61 and rt73-legacy.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 04 Sep 2007 10:12:19 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 04 Sep 2007 12:19:42 +0200
