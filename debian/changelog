@@ -1,3 +1,9 @@
+ralink-fwcutter (1.2.1) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 04 Sep 2007 12:50:43 +0200
+
 ralink-fwcutter (1.2.0) unstable; urgency=low
 
   * Initial Release.
