@@ -1,0 +1,23 @@
+Source: ralink-fwcutter
+Section: contrib/utils
+Priority: extra
+Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: rt61-fwcutter
+Architecture: all
+Provides: rt61-firmware
+Depends: debconf (>= 0.5.00) | debconf-2.0, udev, wget | curl, unp, unzip
+Description: Utility for extracting Ralink rt61 firmware
+ rt61-fwcutter is a tool which can extract firmware from Ralink rt61 or 
+ rt2x00 rt61 source files. It's written for Ralink rt61 driver files.
+
+Package: rt73-fwcutter
+Architecture: all
+Provides: rt73-firmware
+Depends: debconf (>= 0.5.00) | debconf-2.0, udev, wget | curl, unp, unzip
+Description: Utility for extracting Ralink rt73 firmware
+ rt73-fwcutter is a tool which can extract firmware from Ralink rt73 or 
+ rt2x00 rt73 source files. It's written for Ralink rt73-legacy driver files.
+

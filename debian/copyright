@@ -1,0 +1,37 @@
+This package was debianized by Stefan Lippers-Hollmann <s.l-h@gmx.de> on
+Tue, 04 Sep 2007 10:12:19 +0200.
+
+It was downloaded from http://sidux.com/debian/
+
+Upstream Author: 
+
+    Stefan Lippers-Hollmann <s.l-h@gmx.de>
+
+Copyright: 
+
+    (C) 2006-2007 Stefan Lippers-Hollmann <s.l-h@gmx.de>
+    
+    ralink-fwcutter has been modelled after the bcm43xx-fwcutter packaging by
+    (C) 2006 Rene Engelhard <rene@debian.org>.
+
+License:
+
+    This package is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; version 2 of the License only.
+ 
+    This package is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+ 
+    You should have received a copy of the GNU General Public License
+    along with this package; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+On Debian systems, the complete text of the GNU General
+Public License can be found in `/usr/share/common-licenses/GPL'.
+
+The Debian packaging is (C) 2007, Stefan Lippers-Hollmann <s.l-h@gmx.de> and
+is licensed under the GPL, see above.
+
