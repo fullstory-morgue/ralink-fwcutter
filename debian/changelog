@@ -1,8 +1,10 @@
-ralink-fwcutter (1.2.2) UNRELEASED; urgency=low
+ralink-fwcutter (2.0) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * firmware-rt61 and firmware-rt73 have been merged into firmware-nonfree
+    0.8, remove all installer logic, clean up debconf and make this a
+    transitional dummy package for the time being.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Oct 2007 19:02:39 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 27 Nov 2007 21:58:10 +0100
 
 ralink-fwcutter (1.2.1) unstable; urgency=low
 

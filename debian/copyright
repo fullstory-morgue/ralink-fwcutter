@@ -11,9 +11,6 @@ Copyright:
 
     (C) 2006-2007 Stefan Lippers-Hollmann <s.l-h@gmx.de>
     
-    ralink-fwcutter has been modelled after the bcm43xx-fwcutter packaging by
-    (C) 2006 Rene Engelhard <rene@debian.org>.
-
 License:
 
     This package is free software; you can redistribute it and/or modify
