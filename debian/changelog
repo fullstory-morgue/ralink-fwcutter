@@ -1,9 +1,11 @@
-ralink-fwcutter (2.1) ORPHANED; urgency=low
+ralink-fwcutter (2.1) unstable; urgency=low
 
-  * NOT RELEASED YET
-  * ORPHAN PACKAGE, obsoleted by firmware-rt{61,73}.
+  The "never say never again" release.
+  * as usual the debian kernel team can't decided on a canonical package name
+    before uploading, therefore fix up their botched release.
+    firmware-rt{61,73} --> firmware-ralink (currently in NEW processing).
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 27 Nov 2007 22:13:40 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 29 Nov 2007 22:02:35 +0100
 
 ralink-fwcutter (2.0) unstable; urgency=low
 

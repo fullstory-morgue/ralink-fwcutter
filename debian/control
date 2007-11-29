@@ -9,22 +9,25 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/ralink-fwcutter/trunk/
 
 Package: rt61-fwcutter
 Architecture: all
-Depends: debconf (>= 0.5.00) | debconf-2.0, firmware-rt61
-Description: transitional dummy package to install firmware-rt61
+Depends: firmware-ralink
+Conflicts: firmware-rt61
+Description: transitional dummy package to install firmware-ralink
  rt61-fwcutter was a tool extract the firmwares from Ralink rt61 or 
- rt2x00 rt61 source files. It is obsoleted in favour of firmware-rt61 which 
- was merged in firmware-nonfree 0.8.
+ rt2x00 rt61 source files. It was obsoleted in favour of firmware-rt61 which 
+ was merged in firmware-nonfree 0.8, which in turn gets obsoleted by
+ firmware-ralink, shipping in firmware-nonfree 0.9.
  .
  It can be safely removed from your system after updating.
 
 Package: rt73-fwcutter
 Architecture: all
-Provides: rt73-firmware
-Depends: debconf (>= 0.5.00) | debconf-2.0, firmware-rt73
-Description: transitional dummy package to install firmware-rt73
+Depends: firmware-ralink
+Conflicts: firmware-rt73
+Description: transitional dummy package to install firmware-ralink
  rt73-fwcutter was a tool to extract the firmware from Ralink rt73 or 
- rt2x00 rt73 source files. It is obsoleted in favour of firmware-rt73 which
- was merged in firmware-nonfree 0.8.
+ rt2x00 rt73 source files. It was obsoleted in favour of firmware-rt73 which
+ was merged in firmware-nonfree 0.8, which in turn gets obsoleted by 
+ firmware-ralink, shipping in firmware-nonfree 0.9.
  .
  It can be safely removed from your system after updating.
 
